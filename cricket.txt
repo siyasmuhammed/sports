@@ -1,0 +1,9 @@
+Objective: The main objective of cricket is for one team to score more runs than the opposing team while the other team tries to dismiss their opponents and limit their runs.
+
+Teams: A cricket match is typically played between two teams, each consisting of 11 players. One team bats while the other bowls and fields.
+
+Format: There are different formats of the game, the most common being Test cricket (which can last up to five days), One Day International (ODI) cricket (limited to 50 overs per side), and Twenty20 (T20) cricket (limited to 20 overs per side).
+
+Field: Cricket is played on an oval-shaped field with a rectangular 22-yard-long pitch at the center. The pitch is where the bowler delivers the ball to the batsman.
+
+Batting and Bowling: The team that bats tries to score runs by hitting the ball and running between the wickets. The team that bowls tries to dismiss the batsmen by getting them out, typically by getting them bowled, caught, or leg before wicket (LBW)
